@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Mostafa.
 - 👀 I’m interested in Game Development (Unity engine).
 - 🌱 I’m currently learning Data Structure with C++.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Unity game projects.
 - 📫 How to reach me :
 - Gmail: mohammedmostafa2372002@gmail.com
 
