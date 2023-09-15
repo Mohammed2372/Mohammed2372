@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mostafa</h1>
 - 🌱 I’m currently learning **Backend (PHP)**
 
-- 👯 I’m looking to collaborate on **making gamed with Unity**
+- 👯 I’m looking to collaborate on **making games with Unity**
 
 - 📫 How to reach me **mohammedmostafa2372002@gmail.com**
 
