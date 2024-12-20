@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Machine and Deep learning**
 
-- 📫 How to reach me **mohammedmostafa2372002@gmail.com**
+- 📫 How to reach me -> **mohammedmostafa2372002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
