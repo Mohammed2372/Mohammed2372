@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mostafa</h1>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **NLP**
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Machine and Deep learning**
 
 - 📫 How to reach me **mohammedmostafa2372002@gmail.com**
 
