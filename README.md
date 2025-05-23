@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mostafa</h1>
 
+I'm a Senior at Ain Shams University Faculty of Computer and Information Science and a passionate AI developer.
+
 - 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **Machine & Deep learning**
+
+- 🎮 Experience with game development using **Unity** and **Godot**.
 
 - 📫 How to reach me **mohammedmostafa2372002@gmail.com**
 
