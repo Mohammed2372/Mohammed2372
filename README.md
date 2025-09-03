@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mostafa</h1>
 
-I graduated from Ain Shams University Faculty of Computer and Information Science and am a passionate AI developer.
+I'm a graduate of Ain Shams University's Faculty of Computer and Information Science and a passionate AI developer.
 
 - 🌱 I’m currently learning **NLP**
 
